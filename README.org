@@ -1,0 +1,18 @@
+#+TITLE: nazg.el
+
+#+BEGIN_QUOTE
+Ash nazg durbatulûk, ash nazg gimbatul,
+ash nazg thrakatulûk, agh burzum-ishi krimpatul.
+
+(translated)
+One Ring to rule them all, One Ring to find them,
+One Ring to bring them all and in the darkness bind them.
+  -- Inscribed by Isildur, eldest son and heir of Elendil
+#+END_QUOTE
+
+An emacs package for managing feeds of any kind.
+
+Think of ~nazg.el~ as a modernized [[https://www.gnu.org/software/emacs/manual/html_node/gnus/][Gnus]] or a more generalized
+[[https://github.com/skeeto/elfeed][Elfeed]]. ~nazg.el~ allows you to subscribe to feeds, sort them into
+categories, and perform actions upon their entries (replying to
+emails, sharing RSS articles, etc).
