@@ -3,10 +3,6 @@
 #+BEGIN_SRC
 Ash nazg durbatulûk, ash nazg gimbatul,
 ash nazg thrakatulûk, agh burzum-ishi krimpatul.
-
-(translated)
-One Ring to rule them all, One Ring to find them,
-One Ring to bring them all and in the darkness bind them.
   -- Inscribed by Isildur, eldest son and heir of Elendil
 #+END_SRC
 
